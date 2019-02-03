@@ -72,7 +72,6 @@ app.get("/login", function(req, res) {
 });
 
 // login logic
-// middleware
 
 app.post(
   "/login",
